@@ -1,0 +1,152 @@
+C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v {1 {vlog -work work -stats=none {C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\MIPS_SCP.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MIPS_SCP
+
+Top level modules:
+	MIPS_SCP
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/rom.v {1 {vlog -work work -stats=none {C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\rom.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/mux4.v {1 {vlog -work work -stats=none {C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\mux4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/datapath.v {1 {vlog -work work -stats=none C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module FA
+-- Compiling module alu32
+-- Compiling module flopr_param
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module registerfile32
+-- Compiling module signext
+-- Compiling module slt2
+-- Compiling module Datapath
+
+Top level modules:
+	mux4
+	Datapath
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/adder.v {1 {vlog -work work -stats=none C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module FA
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/ram.v {1 {vlog -work work -stats=none C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/ram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/Control_unit.v {1 {vlog -work work -stats=none {C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Control_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/signext.v {1 {vlog -work work -stats=none C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/signext.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP_tb.v {1 {vlog -work work -stats=none {C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\MIPS_SCP_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MIPS_SCP_tb
+
+Top level modules:
+	MIPS_SCP_tb
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/flopr_param.v {1 {vlog -work work -stats=none {C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\flopr_param.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module flopr_param
+
+Top level modules:
+	flopr_param
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/Instruction_Memory.v {1 {vlog -work work -stats=none {C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Instruction_Memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/ALU.v {1 {vlog -work work -stats=none {C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/Register_File.v {1 {vlog -work work -stats=none {C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Register_File.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v {1 {vlog -work work -stats=none {C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CPU_tb
+
+Top level modules:
+	CPU_tb
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/alu32.v {1 {vlog -work work -stats=none C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/alu32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu32
+
+Top level modules:
+	alu32
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v {1 {vlog -work work -stats=none {C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_mod.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CPU_mod
+
+Top level modules:
+	CPU_mod
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/sl2.v {1 {vlog -work work -stats=none C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/sl2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module slt2
+
+Top level modules:
+	slt2
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/decoder4.v {1 {vlog -work work -stats=none C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/decoder4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decoder4
+
+Top level modules:
+	decoder4
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/regfile32.v {1 {vlog -work work -stats=none C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/regfile32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module registerfile32
+
+Top level modules:
+	registerfile32
+
+} {} {}} C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/mux2.v {1 {vlog -work work -stats=none C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/mux2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}}

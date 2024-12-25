@@ -1,0 +1,917 @@
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# 6 compiles, 0 failed with no errors.
+vlog "./CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:59:27 on Dec 24,2024
+# vlog -reportprogress 300 ./CPU_tb.v 
+# ** Error: (vlog-7) Failed to open design unit file "./CPU_tb.v" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 16:59:27 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+vsim "./CPU_tb.v"
+# vsim ./CPU_tb.v 
+# Start time: 17:00:52 on Dec 24,2024
+# ** Error (suppressible): (vsim-19) Failed to access library './CPU_tb' at "./CPU_tb".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 17:00:52 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+vsim "./CPU_tb.v"
+# vsim ./CPU_tb.v 
+# Start time: 17:02:24 on Dec 24,2024
+# ** Error (suppressible): (vsim-19) Failed to access library './CPU_tb' at "./CPU_tb".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 17:02:25 on Dec 24,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 2
+vlog "./CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:02:26 on Dec 24,2024
+# vlog -reportprogress 300 ./CPU_tb.v 
+# ** Error: (vlog-7) Failed to open design unit file "./CPU_tb.v" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 17:02:26 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+
+vlog -work work "C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_mod.v" 
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:08:25 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:UsersAdminDownloadsCSE332_Final_Project_Summer2024VerilogCPU_mod.v 
+# ** Error: (vlog-7) Failed to open design unit file "C:UsersAdminDownloadsCSE332_Final_Project_Summer2024VerilogCPU_mod.v" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 17:08:25 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+
+vlog -work work "C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_mod.v" 
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:08:45 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:UsersAdminDownloadsCSE332_Final_Project_Summer2024VerilogCPU_mod.v 
+# ** Error: (vlog-7) Failed to open design unit file "C:UsersAdminDownloadsCSE332_Final_Project_Summer2024VerilogCPU_mod.v" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 17:08:45 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+vlog -work work "C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:09:37 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:UsersAdminDownloadsCSE332_Final_Project_Summer2024Verilog 
+# ** Error: (vlog-7) Failed to open design unit file "C:UsersAdminDownloadsCSE332_Final_Project_Summer2024Verilog" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 17:09:37 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+vlog -work work "C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_mod.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:09:45 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:UsersAdminDownloadsCSE332_Final_Project_Summer2024VerilogCPU_mod.v 
+# ** Error: (vlog-7) Failed to open design unit file "C:UsersAdminDownloadsCSE332_Final_Project_Summer2024VerilogCPU_mod.v" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 17:09:45 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:10:24 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v 
+# -- Compiling module CPU
+# 
+# Top level modules:
+# 	CPU
+# End time: 17:10:24 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.CPU_tb
+# vsim -gui work.CPU_tb 
+# Start time: 17:11:46 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.InstructionMemory
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.ALU
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'uut'.  Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v Line: 11
+# ** Warning: (vsim-3722) C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v(11): [TFMPC] - Missing connection for port 'pc_out'.
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# 6 compiles, 0 failed with no errors.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:12:22 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v 
+# -- Compiling module CPU
+# 
+# Top level modules:
+# 	CPU
+# End time: 17:12:22 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.CPU_tb
+# End time: 17:12:25 on Dec 24,2024, Elapsed time: 0:00:39
+# Errors: 0, Warnings: 4
+# vsim -gui work.CPU_tb 
+# Start time: 17:12:25 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.InstructionMemory
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.ALU
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'uut'.  Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v Line: 11
+# ** Warning: (vsim-3722) C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v(11): [TFMPC] - Missing connection for port 'pc_out'.
+# WARNING: No extended dataflow license exists
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# 6 compiles, 0 failed with no errors.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:27:33 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v 
+# -- Compiling module CPU
+# 
+# Top level modules:
+# 	CPU
+# End time: 17:27:33 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.CPU_tb
+# End time: 17:27:36 on Dec 24,2024, Elapsed time: 0:15:11
+# Errors: 0, Warnings: 4
+# vsim -gui work.CPU_tb 
+# Start time: 17:27:36 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.InstructionMemory
+# ** Error (suppressible): (vsim-3009) [TSCALE] - Module 'InstructionMemory' does not have a timeunit/timeprecision specification in effect, but other modules do.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut/instrMem File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/Instruction_Memory.v
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# ** Error (suppressible): (vsim-3009) [TSCALE] - Module 'RegisterFile' does not have a timeunit/timeprecision specification in effect, but other modules do.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut/regFile File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/Register_File.v
+# Loading work.ALU
+# Error loading design
+# End time: 17:27:37 on Dec 24,2024, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 1
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# 6 compiles, 0 failed with no errors.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:30:33 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v 
+# -- Compiling module CPU
+# 
+# Top level modules:
+# 	CPU
+# End time: 17:30:33 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.CPU_tb
+# vsim -gui work.CPU_tb 
+# Start time: 17:30:35 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.InstructionMemory
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.ALU
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'uut'.  Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v Line: 11
+# ** Warning: (vsim-3722) C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v(11): [TFMPC] - Missing connection for port 'pc_out'.
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# 6 compiles, 0 failed with no errors.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:35:56 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v 
+# -- Compiling module CPU
+# 
+# Top level modules:
+# 	CPU
+# End time: 17:35:56 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.CPU_tb
+# End time: 17:36:00 on Dec 24,2024, Elapsed time: 0:05:25
+# Errors: 0, Warnings: 5
+# vsim -gui work.CPU_tb 
+# Start time: 17:36:00 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.InstructionMemory
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.ALU
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'uut'.  Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v Line: 11
+# ** Warning: (vsim-3722) C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v(11): [TFMPC] - Missing connection for port 'pc_out'.
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# 6 compiles, 0 failed with no errors.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:46:38 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v 
+# -- Compiling module CPU
+# 
+# Top level modules:
+# 	CPU
+# End time: 17:46:38 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.CPU_tb
+# End time: 17:46:40 on Dec 24,2024, Elapsed time: 0:10:40
+# Errors: 0, Warnings: 4
+# vsim -gui work.CPU_tb 
+# Start time: 17:46:40 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.InstructionMemory
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.ALU
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'uut'.  Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v Line: 11
+# ** Warning: (vsim-3722) C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v(11): [TFMPC] - Missing connection for port 'pc_out'.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:48:08 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v 
+# -- Compiling module CPU
+# 
+# Top level modules:
+# 	CPU
+# End time: 17:48:08 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.CPU_tb
+# End time: 17:48:11 on Dec 24,2024, Elapsed time: 0:01:31
+# Errors: 0, Warnings: 3
+# vsim -gui work.CPU_tb 
+# Start time: 17:48:11 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.InstructionMemory
+# Loading work.RegisterFile
+# Loading work.ALU
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'uut'.  Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v Line: 11
+# ** Warning: (vsim-3722) C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v(11): [TFMPC] - Missing connection for port 'pc_out'.
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# 6 compiles, 0 failed with no errors.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:48:21 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v 
+# -- Compiling module CPU
+# 
+# Top level modules:
+# 	CPU
+# End time: 17:48:21 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.CPU_tb
+# End time: 17:48:23 on Dec 24,2024, Elapsed time: 0:00:12
+# Errors: 0, Warnings: 4
+# vsim -gui work.CPU_tb 
+# Start time: 17:48:23 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.InstructionMemory
+# Loading work.RegisterFile
+# Loading work.ALU
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'uut'.  Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v Line: 11
+# ** Warning: (vsim-3722) C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v(11): [TFMPC] - Missing connection for port 'pc_out'.
+vlog -work work "path_to_CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:52:52 on Dec 24,2024
+# vlog -reportprogress 300 -work work path_to_CPU_tb.v 
+# ** Error: (vlog-7) Failed to open design unit file "path_to_CPU_tb.v" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 17:52:52 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# 6 compiles, 0 failed with no errors.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:53:06 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v 
+# -- Compiling module CPU
+# 
+# Top level modules:
+# 	CPU
+# End time: 17:53:06 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:53:18 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v 
+# -- Compiling module CPU_tb
+# 
+# Top level modules:
+# 	CPU_tb
+# End time: 17:53:18 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.CPU_tb
+# End time: 17:53:28 on Dec 24,2024, Elapsed time: 0:05:05
+# Errors: 0, Warnings: 4
+# vsim -gui work.CPU_tb 
+# Start time: 17:53:28 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.InstructionMemory
+# Loading work.RegisterFile
+# Loading work.ALU
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:36:08 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v 
+# -- Compiling module CPU_tb
+# 
+# Top level modules:
+# 	CPU_tb
+# End time: 21:36:08 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.CPU_tb
+# End time: 21:36:11 on Dec 24,2024, Elapsed time: 3:42:43
+# Errors: 0, Warnings: 1
+# vsim -gui work.CPU_tb 
+# Start time: 21:36:11 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.InstructionMemory
+# Loading work.RegisterFile
+# Loading work.ALU
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# Compile of control.v was successful.
+# Compile of rom.v was successful.
+# Compile of datapath.v was successful.
+# Compile of adder.v was successful.
+# Compile of MIPS_SCP_tb.v was successful.
+# Compile of ram.v was successful.
+# Compile of regfile32.v was successful.
+# Compile of mux2.v was successful.
+# Compile of sl2.v was successful.
+# Compile of signext.v was successful.
+# Compile of mux4.v was successful.
+# Compile of flopr_param.v was successful.
+# Compile of decoder4.v was successful.
+# Compile of alu32.v was successful.
+# Compile of MIPS_SCP.v was successful.
+# 21 compiles, 0 failed with no errors.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:39:35 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v 
+# -- Compiling module CPU_tb
+# 
+# Top level modules:
+# 	CPU_tb
+# End time: 21:39:35 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.CPU_tb
+# End time: 21:39:37 on Dec 24,2024, Elapsed time: 0:03:26
+# Errors: 0, Warnings: 3
+# vsim -gui work.CPU_tb 
+# Start time: 21:39:37 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU
+# Loading work.InstructionMemory
+# Loading work.RegisterFile
+# Loading work.ALU
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:20:55 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v 
+# -- Compiling module CPU_tb
+# 
+# Top level modules:
+# 	CPU_tb
+# End time: 22:20:55 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.MIPS_SCP_tb.v
+# End time: 22:21:17 on Dec 24,2024, Elapsed time: 0:41:40
+# Errors: 0, Warnings: 1
+# vsim -gui work.MIPS_SCP_tb.v 
+# Start time: 22:21:17 on Dec 24,2024
+# ** Error (suppressible): (vsim-19) Failed to access library 'work.MIPS_SCP_tb' at "work.MIPS_SCP_tb".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 22:21:18 on Dec 24,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1
+vsim -gui work.MIPS_SCP_tb
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 22:21:41 on Dec 24,2024
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.Datapath
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.registerfile32
+# Loading work.alu32
+# Loading work.signext
+# Loading work.Controlunit
+# Loading work.ram
+# Loading work.rom
+# Loading work.FA
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# Compile of control.v was successful.
+# Compile of rom.v was successful.
+# Compile of datapath.v was successful.
+# Compile of adder.v was successful.
+# Compile of MIPS_SCP_tb.v was successful.
+# Compile of ram.v was successful.
+# Compile of regfile32.v was successful.
+# Compile of mux2.v was successful.
+# Compile of sl2.v was successful.
+# Compile of signext.v was successful.
+# Compile of mux4.v was successful.
+# Compile of flopr_param.v was successful.
+# Compile of decoder4.v was successful.
+# Compile of alu32.v was successful.
+# Compile of MIPS_SCP.v was successful.
+# 21 compiles, 0 failed with no errors.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:38:43 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v 
+# -- Compiling module CPU_tb
+# 
+# Top level modules:
+# 	CPU_tb
+# End time: 22:38:43 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.MIPS_SCP_tb
+# End time: 22:38:47 on Dec 24,2024, Elapsed time: 0:17:06
+# Errors: 0, Warnings: 2
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 22:38:47 on Dec 24,2024
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.Datapath
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.registerfile32
+# Loading work.alu32
+# Loading work.signext
+# Loading work.Controlunit
+# Loading work.ram
+# Loading work.rom
+# Loading work.FA
+# ** Error (suppressible): (vsim-3389) Port 'PC' not found in the connected module (3rd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP_tb.v Line: 14
+# ** Error (suppressible): (vsim-3389) Port 'Instr' not found in the connected module (4th connection).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP_tb.v Line: 14
+# Error loading design
+# End time: 22:38:48 on Dec 24,2024, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 1
+vsim -gui work.CPU_tb
+# vsim -gui work.CPU_tb 
+# Start time: 22:39:01 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU_mod
+# Loading work.Controlunit
+# Loading work.Datapath
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.registerfile32
+# Loading work.alu32
+# Loading work.signext
+# ** Error: (vsim-3033) Instantiation of 'InstMemory' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v Line: 52
+#         Searched libraries:
+#             C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/work
+# ** Error: (vsim-3033) Instantiation of 'DataMemory' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v Line: 58
+#         Searched libraries:
+#             C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/work
+# Error loading design
+# End time: 22:39:02 on Dec 24,2024, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 1
+vsim -gui work.MIPS_SCP_tb
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 22:39:05 on Dec 24,2024
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.Datapath
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.registerfile32
+# Loading work.alu32
+# Loading work.signext
+# Loading work.Controlunit
+# Loading work.ram
+# Loading work.rom
+# Loading work.FA
+# ** Error (suppressible): (vsim-3389) Port 'PC' not found in the connected module (3rd connection).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP_tb.v Line: 14
+# ** Error (suppressible): (vsim-3389) Port 'Instr' not found in the connected module (4th connection).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP_tb.v Line: 14
+# Error loading design
+# End time: 22:39:05 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 1
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# Compile of control.v was successful.
+# Compile of rom.v was successful.
+# Compile of datapath.v was successful.
+# Compile of adder.v was successful.
+# Compile of MIPS_SCP_tb.v was successful.
+# Compile of ram.v was successful.
+# Compile of regfile32.v was successful.
+# Compile of mux2.v was successful.
+# Compile of sl2.v was successful.
+# Compile of signext.v was successful.
+# Compile of mux4.v was successful.
+# Compile of flopr_param.v was successful.
+# Compile of decoder4.v was successful.
+# Compile of alu32.v was successful.
+# Compile of MIPS_SCP.v was successful.
+# 21 compiles, 0 failed with no errors.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:43:21 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v 
+# -- Compiling module CPU_tb
+# 
+# Top level modules:
+# 	CPU_tb
+# End time: 22:43:21 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.MIPS_SCP_tb
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 22:43:25 on Dec 24,2024
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.flopr_param
+# Loading work.rom
+add wave -r /*
+wave save wave.wif
+# unknown or ambiguous subcommand "save": must be activecursor, addcursor, clipboard, collapse, configcursor, create, cursor, cursorconfig, cursortime, deletecursor, edit, editwrite, expand, export, exportvcd, group, guiObjGetUPFInfo, guiObjHasUPFInfo, import, interrupt, map, modify, overlay, pah, positioncursor, refresh, seecursor, seetime, sort, ungroup, write, zoom, zoomcursor, zoomfull, zoomin, zoomlast, zoomout, or zoomrange
+vsim -wlf wave.wlf top
+# End time: 22:46:24 on Dec 24,2024, Elapsed time: 0:02:59
+# Errors: 0, Warnings: 2
+# vsim -wlf wave.wlf top 
+# Start time: 22:46:24 on Dec 24,2024
+# ** Error: (vsim-3170) Could not find 'top'.
+#         Searched libraries:
+#             C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/work
+# Error loading design
+# End time: 22:46:24 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vsim -wlf wave.wlf my_top
+# vsim -wlf wave.wlf my_top 
+# Start time: 22:47:23 on Dec 24,2024
+# ** Error: (vsim-3170) Could not find 'my_top'.
+#         Searched libraries:
+#             C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/work
+# Error loading design
+# End time: 22:47:23 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:47:35 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v 
+# -- Compiling module CPU_tb
+# 
+# Top level modules:
+# 	CPU_tb
+# End time: 22:47:35 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -wlf wave.wlf CPU_tb
+# vsim -wlf wave.wlf CPU_tb 
+# Start time: 22:47:48 on Dec 24,2024
+# Loading work.CPU_tb
+# Loading work.CPU_mod
+# Loading work.Controlunit
+# Loading work.Datapath
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.registerfile32
+# Loading work.alu32
+# Loading work.signext
+# ** Error: (vsim-3033) Instantiation of 'InstMemory' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v Line: 52
+#         Searched libraries:
+#             C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/work
+# ** Error: (vsim-3033) Instantiation of 'DataMemory' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_tb/uut File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_mod.v Line: 58
+#         Searched libraries:
+#             C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/work
+# Error loading design
+# End time: 22:47:49 on Dec 24,2024, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 1
+vsim -wlf wave.wlf MIPS_SCP_tb.v
+# vsim -wlf wave.wlf MIPS_SCP_tb.v 
+# Start time: 22:48:33 on Dec 24,2024
+# ** Error (suppressible): (vsim-19) Failed to access library 'MIPS_SCP_tb' at "MIPS_SCP_tb".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 22:48:33 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:49:11 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v 
+# -- Compiling module CPU_tb
+# 
+# Top level modules:
+# 	CPU_tb
+# End time: 22:49:11 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.MIPS_SCP_tb
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 22:49:21 on Dec 24,2024
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.flopr_param
+# Loading work.rom
+add wave -r /*
+vsim -wlf wave.wlf MIPS_SCP_tb.v
+# End time: 22:49:44 on Dec 24,2024, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 1
+# vsim -wlf wave.wlf MIPS_SCP_tb.v 
+# Start time: 22:49:44 on Dec 24,2024
+# ** Error (suppressible): (vsim-19) Failed to access library 'MIPS_SCP_tb' at "MIPS_SCP_tb".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 22:49:44 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vlog -work work MIPS_SCP_tb.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:50:21 on Dec 24,2024
+# vlog -reportprogress 300 -work work MIPS_SCP_tb.v 
+# ** Error: (vlog-7) Failed to open design unit file "MIPS_SCP_tb.v" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 22:50:21 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+vsim -wlf wave.wlf MIPS_SCP_tb
+# vsim -wlf wave.wlf MIPS_SCP_tb 
+# Start time: 22:51:01 on Dec 24,2024
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.flopr_param
+# Loading work.rom
+add wave /*
+run 100ns
+add wave /*
+run 10000ns
+# ** Note: $stop    : C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP_tb.v(35)
+#    Time: 210 ns  Iteration: 0  Instance: /MIPS_SCP_tb
+# Break in Module MIPS_SCP_tb at C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP_tb.v line 35
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# Compile of control.v was successful.
+# Compile of rom.v was successful.
+# Compile of datapath.v was successful.
+# Compile of adder.v was successful.
+# Compile of MIPS_SCP_tb.v was successful.
+# Compile of ram.v was successful.
+# Compile of regfile32.v was successful.
+# Compile of mux2.v was successful.
+# Compile of sl2.v was successful.
+# Compile of signext.v was successful.
+# Compile of mux4.v was successful.
+# Compile of flopr_param.v was successful.
+# Compile of decoder4.v was successful.
+# Compile of alu32.v was successful.
+# Compile of MIPS_SCP.v was successful.
+# 21 compiles, 0 failed with no errors.
+vlog -work work MIPS_SCP_tb.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:06:25 on Dec 24,2024
+# vlog -reportprogress 300 -work work MIPS_SCP_tb.v 
+# ** Error: (vlog-7) Failed to open design unit file "MIPS_SCP_tb.v" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 23:06:25 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:06:31 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v 
+# -- Compiling module CPU_tb
+# 
+# Top level modules:
+# 	CPU_tb
+# End time: 23:06:31 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -wlf wave.wlf MIPS_SCP_tb
+# End time: 23:06:36 on Dec 24,2024, Elapsed time: 0:15:35
+# Errors: 0, Warnings: 2
+# vsim -wlf wave.wlf MIPS_SCP_tb 
+# Start time: 23:06:36 on Dec 24,2024
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.mux4
+# Loading work.rom
+# Loading work.registerfile32
+# Loading work.signext
+# Loading work.alu32
+# Loading work.ram
+# Loading work.Controlunit
+# Loading work.FA
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (3) for port 's'. The port definition is at: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/mux4.v(6).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/jumpmux File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 22
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (30) for port 'addr'. The port definition is at: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/rom.v(4).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/IM File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 32
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (1) for port 'y'. The port definition is at: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/mux2.v(6).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/writeregmux File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 37
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (1) for port 'wa'. The port definition is at: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/regfile32.v(11).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/RF File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 43
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ALU'.  Expected 6, found 5.
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/ALU File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 48
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (32) for port 'shamt'. The port definition is at: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/alu32.v(9).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/ALU File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 48
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'y'. The port definition is at: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/alu32.v(10).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/ALU File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 48
+# ** Warning: (vsim-3722) C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v(48): [TFMPC] - Missing connection for port 'zero'.
+# ** Fatal: (vsim-3365) Too many port connections. Expected 5, found 6.
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/DM File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 49
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 23:06:37 on Dec 24,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 9
+vsim -wlf wave.wlf MIPS_SCP_tb.v
+# vsim -wlf wave.wlf MIPS_SCP_tb.v 
+# Start time: 23:06:48 on Dec 24,2024
+# ** Error (suppressible): (vsim-19) Failed to access library 'MIPS_SCP_tb' at "MIPS_SCP_tb".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 23:06:48 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vsim -gui work.MIPS_SCP_tb
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 23:06:56 on Dec 24,2024
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.mux4
+# Loading work.rom
+# Loading work.registerfile32
+# Loading work.signext
+# Loading work.alu32
+# Loading work.ram
+# Loading work.Controlunit
+# Loading work.FA
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (3) for port 's'. The port definition is at: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/mux4.v(6).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/jumpmux File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 22
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (30) for port 'addr'. The port definition is at: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/rom.v(4).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/IM File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 32
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (1) for port 'y'. The port definition is at: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/mux2.v(6).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/writeregmux File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 37
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (1) for port 'wa'. The port definition is at: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/regfile32.v(11).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/RF File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 43
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ALU'.  Expected 6, found 5.
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/ALU File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 48
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (32) for port 'shamt'. The port definition is at: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/alu32.v(9).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/ALU File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 48
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'y'. The port definition is at: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/alu32.v(10).
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/ALU File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 48
+# ** Warning: (vsim-3722) C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v(48): [TFMPC] - Missing connection for port 'zero'.
+# ** Fatal: (vsim-3365) Too many port connections. Expected 5, found 6.
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/mips_inst/DM File: C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP.v Line: 49
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 23:06:57 on Dec 24,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 9
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# Compile of control.v was successful.
+# Compile of rom.v was successful.
+# Compile of datapath.v was successful.
+# Compile of adder.v was successful.
+# Compile of MIPS_SCP_tb.v was successful.
+# Compile of ram.v was successful.
+# Compile of regfile32.v was successful.
+# Compile of mux2.v was successful.
+# Compile of sl2.v was successful.
+# Compile of signext.v was successful.
+# Compile of mux4.v was successful.
+# Compile of flopr_param.v was successful.
+# Compile of decoder4.v was successful.
+# Compile of alu32.v was successful.
+# Compile of MIPS_SCP.v was successful.
+# 21 compiles, 0 failed with no errors.
+# Compile of Control_unit.v was successful.
+# Compile of Instruction_Memory.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of ALU.v was successful.
+# Compile of CPU_mod.v was successful.
+# Compile of CPU_tb.v was successful.
+# Compile of control.v was successful.
+# Compile of rom.v was successful.
+# Compile of datapath.v was successful.
+# Compile of adder.v was successful.
+# Compile of MIPS_SCP_tb.v was successful.
+# Compile of ram.v was successful.
+# Compile of regfile32.v was successful.
+# Compile of mux2.v was successful.
+# Compile of sl2.v was successful.
+# Compile of signext.v was successful.
+# Compile of mux4.v was successful.
+# Compile of flopr_param.v was successful.
+# Compile of decoder4.v was successful.
+# Compile of alu32.v was successful.
+# Compile of MIPS_SCP.v was successful.
+# 21 compiles, 0 failed with no errors.
+vlog -work work "C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:09:01 on Dec 24,2024
+# vlog -reportprogress 300 -work work C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v 
+# -- Compiling module CPU_tb
+# 
+# Top level modules:
+# 	CPU_tb
+# End time: 23:09:01 on Dec 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.MIPS_SCP_tb
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 23:09:08 on Dec 24,2024
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.flopr_param
+# Loading work.rom
+add wave /*
+run 10000ns
+# ** Note: $stop    : C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP_tb.v(35)
+#    Time: 210 ns  Iteration: 0  Instance: /MIPS_SCP_tb
+# Break in Module MIPS_SCP_tb at C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/MIPS_SCP_tb.v line 35
+add wave /*
+add wave /*
+add wave /*
+run 10000ns

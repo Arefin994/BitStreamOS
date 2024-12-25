@@ -1,0 +1,575 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vadder
+Z0 !s110 1735060131
+!i10b 1
+!s100 POdD8SeL7hLzOOf0@VaNZ2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?4e7foP;fESk]4LRZgbT90
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024
+Z4 w1705214447
+Z5 8C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/adder.v
+Z6 FC:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/adder.v
+!i122 305
+L0 6 16
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1735060131.000000
+Z9 !s107 C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/adder.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/adder.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vALU
+R0
+!i10b 1
+!s100 GD[b?[0N>J:EY[OHzD2H=3
+R1
+IPW>mAA`R7:T3Hh1e@IKmc3
+R2
+R3
+w1735039782
+8C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\ALU.v
+FC:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\ALU.v
+!i122 299
+L0 2 22
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\ALU.v|
+!i113 1
+R11
+R12
+n@a@l@u
+valu32
+Z13 !s110 1735060132
+!i10b 1
+!s100 ]gY<PLG=LjDkAF_C<ITl=0
+R1
+IJlKXV?Sz<cjmnU5fKn0JE0
+R2
+R3
+w1704775379
+8C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/alu32.v
+FC:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/alu32.v
+!i122 315
+L0 6 29
+R7
+r1
+!s85 0
+31
+Z14 !s108 1735060132.000000
+!s107 C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/alu32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/alu32.v|
+!i113 1
+R11
+R12
+vControlUnit
+R0
+!i10b 1
+!s100 3OflMRK?3;16bS@[48mBQ1
+R1
+IFJgi03ilXAbN87V^<701I3
+R2
+R3
+w1735039809
+8C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Control_unit.v
+FC:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Control_unit.v
+!i122 296
+L0 2 102
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Control_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Control_unit.v|
+!i113 1
+R11
+R12
+n@control@unit
+vControlunit
+R0
+!i10b 1
+!s100 fNPdh5mIPVU:XIbgcglSJ1
+R1
+Iin`i@QLn2DoHSAY2m17Yi1
+R2
+R3
+w1735060126
+8C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\control.v
+FC:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\control.v
+!i122 302
+L0 7 119
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\control.v|
+!i113 1
+R11
+R12
+n@controlunit
+vCPU
+!s110 1735054762
+!i10b 1
+!s100 h6]Qd6adkWbkC2^^k`3^Q1
+R1
+I[GHYB[2E4:b[hAfNKg8H83
+R2
+R3
+w1735041160
+Z15 8C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_mod.v
+Z16 FC:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_mod.v
+!i122 188
+L0 1 50
+R7
+r1
+!s85 0
+31
+!s108 1735054762.000000
+Z17 !s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_mod.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_mod.v|
+!i113 1
+R11
+R12
+n@c@p@u
+vCPU_mod
+R0
+!i10b 1
+!s100 km0DD>QOi7Di[Y1o91Qbe3
+R1
+I9YzK22@M:IKKIReCKjDNY2
+R2
+R3
+w1735058072
+R15
+R16
+!i122 300
+L0 3 64
+R7
+r1
+!s85 0
+31
+R8
+R17
+R18
+!i113 1
+R11
+R12
+n@c@p@u_mod
+vCPU_tb
+!s110 1735060141
+!i10b 1
+!s100 Sg2A^1i_fQAGY8`k[U;A?1
+R1
+I<^e^==fJ8SGUMXG7]1:XE2
+R2
+R3
+w1735058142
+8C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v
+FC:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v
+!i122 317
+L0 3 47
+R7
+r1
+!s85 0
+31
+!s108 1735060141.000000
+!s107 C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/Verilog/CPU_tb.v|
+!i113 1
+R11
+R12
+n@c@p@u_tb
+vcpu_tb
+!s110 1735040898
+!i10b 1
+!s100 MQD<0NYbGO`Vca[^lMN9G3
+R1
+I39Jjki;Lc;8n0N2VoTKFD3
+R2
+R3
+w1735040882
+8C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_tb.v
+FC:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_tb.v
+!i122 173
+Z19 L0 3 36
+R7
+r1
+!s85 0
+31
+!s108 1735040898.000000
+!s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\CPU_tb.v|
+!i113 1
+R11
+R12
+vDatapath
+R0
+!i10b 1
+!s100 K9Rzd`FgikV?RaOn=1bF=3
+R1
+IZ@GEVicfei]kW<`VG6dFh2
+R2
+R3
+w1705215384
+8C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/datapath.v
+FC:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/datapath.v
+!i122 304
+L0 15 43
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\sl2.v|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\signext.v|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\regfile32.v|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\mux4.v|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\mux2.v|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\flopr_param.v|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\alu32.v|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\adder.v|C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/datapath.v|
+!i113 1
+R11
+R12
+n@datapath
+vdecoder4
+R13
+!i10b 1
+!s100 k1PDc_jh3bdPICKz6AkfC2
+R1
+IPf0QXFlI?IN3IDz2R4?=Z3
+R2
+R3
+w1704775437
+8C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/decoder4.v
+FC:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/decoder4.v
+!i122 314
+L0 6 41
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/decoder4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/decoder4.v|
+!i113 1
+R11
+R12
+vFA
+R0
+!i10b 1
+!s100 H=jfXY22PJTHJQJ3=4<L=2
+R1
+IZO?c9Cnj6lGA1c8Y5PQg@2
+R2
+R3
+R4
+R5
+R6
+!i122 305
+L0 23 5
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@f@a
+vflopr_param
+R13
+!i10b 1
+!s100 Ub:>Mif^bzhb0dLZb`T6@1
+R1
+I45z<4c4Zzge8z:VokLU1V3
+R2
+R3
+w1735058558
+8C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\flopr_param.v
+FC:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\flopr_param.v
+!i122 313
+L0 3 13
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\flopr_param.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\flopr_param.v|
+!i113 1
+R11
+R12
+vInstructionMemory
+R0
+!i10b 1
+!s100 49_Fd5OR=aif3g<`W7]UY3
+R1
+IKjSQE^Q:aP78gSU>5n@5N2
+R2
+R3
+w1735039773
+8C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Instruction_Memory.v
+FC:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Instruction_Memory.v
+!i122 297
+L0 2 23
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Instruction_Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Instruction_Memory.v|
+!i113 1
+R11
+R12
+n@instruction@memory
+vMIPS_SCP
+R13
+!i10b 1
+!s100 6k@3F^aSPf1EJ_X4R8E^`2
+R1
+IZBS>iWJ4zVYRY_@S:?HL[0
+R2
+R3
+w1735060093
+8C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\MIPS_SCP.v
+FC:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\MIPS_SCP.v
+!i122 316
+L0 3 34
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\MIPS_SCP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\MIPS_SCP.v|
+!i113 1
+R11
+R12
+n@m@i@p@s_@s@c@p
+vMIPS_SCP_tb
+R13
+!i10b 1
+!s100 dY>g^HPm:C1;F]:`dKF0d0
+R1
+IANhbK]@0Mcz`8<A5O^07Q0
+R2
+R3
+w1735060075
+8C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\MIPS_SCP_tb.v
+FC:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\MIPS_SCP_tb.v
+!i122 306
+R19
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\MIPS_SCP_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\MIPS_SCP_tb.v|
+!i113 1
+R11
+R12
+n@m@i@p@s_@s@c@p_tb
+vmux2
+R13
+!i10b 1
+!s100 cKn3GS0^`?]:SEii3GNzJ1
+R1
+IP7<@PEQnl94JGg[nKG2b>0
+R2
+R3
+w1704776184
+8C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/mux2.v
+FC:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/mux2.v
+!i122 309
+L0 6 12
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/mux2.v|
+!i113 1
+R11
+R12
+vmux4
+R13
+!i10b 1
+!s100 K5ZiK[1HFMeGGATIz9djP2
+R1
+IK>iNJFGEej5DHLYB22eA52
+R2
+R3
+w1704775545
+8C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\mux4.v
+FC:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\mux4.v
+!i122 312
+L0 6 20
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\mux4.v|
+!i113 1
+R11
+R12
+vram
+R13
+!i10b 1
+!s100 d164]T7az:jD<k@Q>@;ce2
+R1
+I2EVPol3<CUfz<O^d[ZWlB2
+R2
+R3
+Z20 w1704776186
+8C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/ram.v
+FC:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/ram.v
+!i122 307
+L0 5 24
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/ram.v|
+!i113 1
+R11
+R12
+vRegisterFile
+R0
+!i10b 1
+!s100 6`6BKZK@1cSRa8zVkNDgf2
+R1
+Igmch?Z7gI>WbNHlmG5L_d1
+R2
+R3
+w1735039821
+8C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Register_File.v
+FC:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Register_File.v
+!i122 298
+L0 2 39
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Register_File.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\Verilog\Register_File.v|
+!i113 1
+R11
+R12
+n@register@file
+vregisterfile32
+R13
+!i10b 1
+!s100 UPaY0dJ8W7nOe;gZ1:dgo3
+R1
+Ij3XmdfR1giZB;ddbaIb1U0
+R2
+R3
+R20
+8C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/regfile32.v
+FC:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/regfile32.v
+!i122 308
+L0 6 34
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/regfile32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/regfile32.v|
+!i113 1
+R11
+R12
+vrom
+R0
+!i10b 1
+!s100 X@JYca>e=JRF[`2[Ve?G:3
+R1
+IzEaJSk@D7LHG0h:6J6Rn[2
+R2
+R3
+w1735058570
+8C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\rom.v
+FC:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\rom.v
+!i122 303
+L0 3 19
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Downloads\CSE332_Final_Project_Summer2024\CSE332_Final_Project_Summer2024\MIPSVerilogWOJAL\rom.v|
+!i113 1
+R11
+R12
+vsignext
+R13
+!i10b 1
+!s100 ]O6EBlmRCeeaS6VEg0jFT1
+R1
+IAY9jM:m30H1X@W_kMmQbk0
+R2
+R3
+w1704775668
+8C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/signext.v
+FC:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/signext.v
+!i122 311
+L0 6 7
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/signext.v|
+!i113 1
+R11
+R12
+vslt2
+R13
+!i10b 1
+!s100 L`WcOzOS9d8K6WWdkoel<0
+R1
+IZ_ZWch:jUgM46PKDn]^[Q0
+R2
+R3
+w1704775892
+8C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/sl2.v
+FC:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/sl2.v
+!i122 310
+L0 6 6
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/sl2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Downloads/CSE332_Final_Project_Summer2024/CSE332_Final_Project_Summer2024/MIPSVerilogWOJAL/sl2.v|
+!i113 1
+R11
+R12
